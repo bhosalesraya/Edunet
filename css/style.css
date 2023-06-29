@@ -1,21 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&display=swap');
+body{
+    background: url("/images/background.jpg");
+}
 *{
 font-family: 'Bruno Ace', cursive;
 }
 .bannerBgImage{
     height:100vh;
-    background: url("/images/laptop.jpg");
+    background: url("/images/middle.jpg");
     background-size: cover;
     position: relative;
 }
 
 .bannerText{
-    text-align: right;
+    text-align:center;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    color: white;
+    color: orange;
 }
 
 .bannerTitle{
@@ -28,8 +31,8 @@ font-family: 'Bruno Ace', cursive;
     cursor: pointer;
 }
 .card:hover{
-    background-color: #d87093;
-    border: 2px solid #9acd32;
+    background-color: yellow;
+    border: 5px solid blue;
 }
 .BIcon{
     width:100%;
@@ -37,7 +40,7 @@ font-family: 'Bruno Ace', cursive;
     font-size: 40px;
 }
 .img-fluid:hover{
-    border: 5px solid #9acd32;
+    border: 10px solid pink;
 }
 .card-img-top{
     height:50vh;
