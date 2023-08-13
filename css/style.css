@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&display=swap');
 body{
-    background: url("/images/background.jpg");
+    background: url("./images/background.jpg");
 }
 *{
 font-family: 'Bruno Ace', cursive;
 }
 .bannerBgImage{
     height:100vh;
-    background: url("/images/middle.jpg");
+    background: url("./images/middle.jpg");
     background-size: cover;
     position: relative;
 }
