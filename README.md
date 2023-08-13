@@ -1,9 +1,10 @@
 # Edunet
 This is my portfolio
-![Screenshot (6)](https://github.com/bhosalesraya/Edunet/assets/78893532/7e7f591c-a63d-4f76-897e-5e8514a559af)
 
 
 ![Screenshot (5)](https://github.com/bhosalesraya/Edunet/assets/78893532/a18db648-2c4b-46cb-88ca-afac2e3debf8)
+
+![Screenshot (6)](https://github.com/bhosalesraya/Edunet/assets/78893532/7e7f591c-a63d-4f76-897e-5e8514a559af)
 
 
 ![Screenshot (8)](https://github.com/bhosalesraya/Edunet/assets/78893532/a325dfd8-7436-4db5-847d-9a02144fd6d7)
